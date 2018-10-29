@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>chat.png</file>
+        <file>logout.png</file>
+        <file>match.png</file>
+        <file>user.png</file>
+    </qresource>
+    <qresource prefix="/gifs">
+        <file>loading_L.gif</file>
+    </qresource>
+</RCC>
