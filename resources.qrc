@@ -1,11 +1,11 @@
 <RCC>
     <qresource prefix="/Images">
-        <file>chat.png</file>
-        <file>logout.png</file>
-        <file>match.png</file>
-        <file>user.png</file>
+        <file>Images/chat.png</file>
+        <file>Images/logout.png</file>
+        <file>Images/match.png</file>
+        <file>Images/user.png</file>
     </qresource>
     <qresource prefix="/gifs">
-        <file>loading_L.gif</file>
+        <file>Images/loading_L.gif</file>
     </qresource>
 </RCC>
